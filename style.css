@@ -93,16 +93,16 @@ blockquote p:last-child {
 /* Full size background image */
 html, #container, .inner { background-color:transparent;}
 html {
-  background:url(background.jpg) center center no-repeat fixed;
+  background:#FFFFFF center center no-repeat fixed;
   background-size:cover;
 }
 body {
   max-width:800px;
-  margin:25px auto;
+  margin:10px auto;
 }
 header, #content, footer { 
   background: #FFFFFF; 
-  padding:25px;
+  padding:10px;
   color:#000000; 
 }
 iframe {
