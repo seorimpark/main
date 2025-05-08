@@ -109,6 +109,20 @@ iframe {
   max-width:100%;
 }
 
+.lang-switch {
+  position: right;
+  padding: 8px 12px;
+  color: #595b5e;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.lang-switch li a:hover{
+  color:#a2a5a8;
+}
+.lang-switch li a:active{
+  color:#000000;
+}
 /* Menu Links */
 ul.main-menu {
   margin: 0;
