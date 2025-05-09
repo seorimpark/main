@@ -111,8 +111,8 @@ iframe {
 
 .lang-switch {
   position: right;
-  padding: 8px 24px;
-  color: #595b5e;
+  padding: 8px 8px;
+  color: #8a8a8a;
   text-decoration: none;
   cursor: pointer;
 }
